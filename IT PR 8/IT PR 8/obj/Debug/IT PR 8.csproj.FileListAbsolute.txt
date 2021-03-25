@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\IT PR 8\IT PR 8\bin\Debug\IT PR 8.exe.config
+C:\Users\student\source\repos\IT PR 8\IT PR 8\bin\Debug\IT PR 8.exe
+C:\Users\student\source\repos\IT PR 8\IT PR 8\bin\Debug\IT PR 8.pdb
+C:\Users\student\source\repos\IT PR 8\IT PR 8\obj\Debug\IT PR 8.csprojAssemblyReference.cache
+C:\Users\student\source\repos\IT PR 8\IT PR 8\obj\Debug\IT_PR_8.Form1.resources
+C:\Users\student\source\repos\IT PR 8\IT PR 8\obj\Debug\IT_PR_8.Properties.Resources.resources
+C:\Users\student\source\repos\IT PR 8\IT PR 8\obj\Debug\IT PR 8.csproj.GenerateResource.cache
+C:\Users\student\source\repos\IT PR 8\IT PR 8\obj\Debug\IT PR 8.exe
+C:\Users\student\source\repos\IT PR 8\IT PR 8\obj\Debug\IT PR 8.pdb
